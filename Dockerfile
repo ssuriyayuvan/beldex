@@ -1,6 +1,6 @@
 # Multistage docker build, requires docker 17.05
 
-# builder stage
+# builder stage beldex
 FROM ubuntu:16.04 as builder
 
 RUN set -ex && \
